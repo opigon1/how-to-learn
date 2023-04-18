@@ -9,18 +9,3 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
   box-sizing: border-box;
 }
-
-.list {
-  margin: 0;
-  padding: 0;
-}
-
-.link {
-  text-decoration: none;
-  color: #2f80ed;
-  transition: opacity .1s linear;
-}
-
-.link:hover {
-  opacity: .4;
-}
